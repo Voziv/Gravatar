@@ -4,12 +4,11 @@ A library to make working with Gravatar in PHP easy.
 
 ## Requirements
 
-lrobert\Gravtar requires the following:
+lrobert\Gravatar requires the following:
 
 - PHP 5.3+
 
 ## Installation
-============
 It is recommended that you install the lrobert\Gravatar library [through composer](http://getcomposer.org/). To do so, add
  the following lines to your ``composer.json``.
  
