@@ -1,4 +1,5 @@
 # Gravatar
+[![Latest Stable Version](https://poser.pugx.org/lrobert/gravatar/v/stable.svg)](https://packagist.org/packages/lrobert/gravatar) [![Total Downloads](https://poser.pugx.org/lrobert/gravatar/downloads.svg)](https://packagist.org/packages/lrobert/gravatar) [![Latest Unstable Version](https://poser.pugx.org/lrobert/gravatar/v/unstable.svg)](https://packagist.org/packages/lrobert/gravatar) [![License](https://poser.pugx.org/lrobert/gravatar/license.svg)](https://packagist.org/packages/lrobert/gravatar)
 
 A library to make working with Gravatar in PHP easy.
 
